@@ -5,9 +5,9 @@
 ## Welcome! 👋
 
 ## Links
-Solution URL: https://www.frontendmentor.io/solutions/social-link-profile-cX7wx-fbt1
+Solution URL: [https://www.frontendmentor.io/solutions/social-link-profile-cX7wx-fbt1](https://www.frontendmentor.io/solutions/blog-preview-card-7qlhzP-an_)
 
-Live Site URL: (https://faq-accordion-main-ashen.vercel.app/)
+Live Site URL: [(https://faq-accordion-main-ashen.vercel.app/)](https://blog-preview-card-ten-drab.vercel.app/)
 
 - [Frontend Mentor Page](https://www.frontendmentor.io/solutions/faq-accordion-vv7qVzwowd)
 - [GitHub Pages](https://github.com/rocioizq)
